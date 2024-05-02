@@ -1,1 +1,2 @@
-# VM-Setup-VM
+<h1>Azure Virtual Machines Set Up and Remote Desktop</h1>
+Want to fire up a virtual machine (VM) on Microsoft Azure and control it remotely? This guide will show you how to create a Resource Group, deploy a VM within it, and access it securely using Remote Desktop.  By following these steps, you'll have a fully functional VM in Azure, ready for remote management through a familiar graphical interface. Remember, this process involves some network security tweaks and VM configuration to make sure everything is secure and accessible.
